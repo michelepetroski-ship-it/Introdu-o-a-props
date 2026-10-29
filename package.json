@@ -1,0 +1,25 @@
+
+{
+  "name": "atv5props",
+  "version": "1.0.0",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "^58.0.17",
+    "expo-router": "~58.0.16",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-native": "0.88.0",
+    "react-native-web": "*",
+    "@expo/metro-runtime": "*"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.3",
+    "@types/react": "~19.3.0"
+  }
+}
